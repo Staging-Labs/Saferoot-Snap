@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "0.1.0",
   "description": "Safeguard your crypto and NFTs",
   "proposedName": "Saferoot",
   "repository": {
@@ -7,7 +7,7 @@
     "url": "https://github.com/Staging-Labs/Saferoot-Snap.git"
   },
   "source": {
-    "shasum": "GrnoSXYQtPdtlA51kR7jW1h7MFsbBUP0o06160qXhq0=",
+    "shasum": "oojLxkBTSGsFI1zc3/ipS/a8GMWG4fnWy9cphIf5LAs=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
